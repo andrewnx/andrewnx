@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats-delta-liart.vercel.app/api/top-langs/?username=andrewnx)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ov94j0yqw-andrewnxs-projects.vercel.app/api/top-langs?username=andrewnx&include_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **andrewnx/andrewnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
