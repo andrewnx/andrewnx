@@ -1,5 +1,3 @@
-## Hi there 👋
-
 [![Top Langs](https://github-readme-stats-delta-liart.vercel.app/api/top-langs?username=andrewnx&theme=tokyonight&layout=compact&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
