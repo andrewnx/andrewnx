@@ -1,4 +1,4 @@
-[![andrewnx's GitHub stats](https://github-readme-stats-rust-one-95.vercel.app/api/top-langs/?username=andrewnx&show_icons=true&theme=radical&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![andrewnx's GitHub stats](https://github-readme-stats-rust-one-95.vercel.app/api/top-langs/?username=andrewnx&show_icons=true&theme=radical&langs_count=20&layout=compact&stats_format=bytes)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **andrewnx/andrewnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
