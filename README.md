@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/](https://vercel.com/andrewnxs-projects/github-readme-stats/4DFg5S2BbrtunzjstkgxN9o2vgBs)api?username=andrewnx)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **andrewnx/andrewnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
